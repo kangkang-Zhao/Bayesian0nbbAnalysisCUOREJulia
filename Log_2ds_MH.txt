@@ -1,0 +1,60 @@
+LineshapeGauss3 initialized for DS3819 with 882 active channels.
+2
+2
+File exists.
+Tmp Test
+Reading histogram 'CombinedEff_DS3819' from /Users/zhaokangkang/gssiwork/julia-dev/data/taup23_2ds/CombinedEfficiency/CombinedEfficiencies.root ...
+Plotting and saving to CombinedEff_DS3819.png ...
+LS scaling file exists.
+Reading LS scaling histograms from /Users/zhaokangkang/gssiwork/julia-dev/data/taup23_2ds/lineshape_scaling_output/CombinedReso_model2_pol2bias.root ...
+The histogram priors may be a bit odd out at the tails, so truncate them at percentile of 0.997
+Reading histogram 'bias_Qbb_ds3819' ...
+Reading histogram 'reso_Qbb_ds3819' ...
+Opening file /Users/zhaokangkang/gssiwork/julia-dev/data/taup23_2ds/super_reduced/background/unblinded/SuperReduced_Background_ds3819.root
+Number of entries in tree: 2490232
+LineshapeGauss3 initialized for DS3820 with 828 active channels.
+2
+2
+File exists.
+Tmp Test
+Reading histogram 'CombinedEff_DS3820' from /Users/zhaokangkang/gssiwork/julia-dev/data/taup23_2ds/CombinedEfficiency/CombinedEfficiencies.root ...
+Plotting and saving to CombinedEff_DS3820.png ...
+LS scaling file exists.
+Reading LS scaling histograms from /Users/zhaokangkang/gssiwork/julia-dev/data/taup23_2ds/lineshape_scaling_output/CombinedReso_model2_pol2bias.root ...
+The histogram priors may be a bit odd out at the tails, so truncate them at percentile of 0.997
+Reading histogram 'bias_Qbb_ds3820' ...
+Reading histogram 'reso_Qbb_ds3820' ...
+Opening file /Users/zhaokangkang/gssiwork/julia-dev/data/taup23_2ds/super_reduced/background/unblinded/SuperReduced_Background_ds3820.root
+Number of entries in tree: 1967948
+Dataset 3819: 0 channels with zero efficiency or zero exposure in ROI.
+Dataset 3820: 0 channels with zero efficiency or zero exposure in ROI.
+Dataset 3819: 0 channels with zero efficiency or zero exposure in ROI.
+Dataset 3820: 0 channels with zero efficiency or zero exposure in ROI.
+Dataset 3819: 0 channels with zero efficiency or zero exposure in ROI.
+Dataset 3820: 0 channels with zero efficiency or zero exposure in ROI.
+Original bin range: start = '1', end = '92'.
+Trimmed bin range: start = '1', end = '92'.
+Original bin range: start = '1', end = '214'.
+Trimmed bin range: start = '1', end = '214'.
+Original bin range: start = '1', end = '107'.
+Trimmed bin range: start = '1', end = '107'.
+Original bin range: start = '1', end = '248'.
+Trimmed bin range: start = '1', end = '248'.
+elapsed CPU time: 6254.74345 seconds
+6315.018110 seconds (132.50 G allocations: 2.557 TiB, 5.97% gc time, 0.46% compilation time: <1% of which was recompilation)
+elapsed CPU time: 6255.251848 seconds
+Run completed in 6255.251848 seconds
+
+BAT拟合参数值:
+(Gamma_0ν = 1.2182403783749984e-51, BI_1 = 0.014207427160518975, BI_2 = 0.01197554972749059, Co60 = 0.1752916264141647, EffCut_ds3819 = 0.9479994108111883, EffCut_ds3820 = 0.9240165470864977, Qββ = 2527.517808503865, bias_ds3819 = 0.00784860293014394, bias_ds3820 = -0.1919975908682776, reso_ds3819 = 1.080954571064384, reso_ds3820 = 1.1879920120435288)
+Key: Symbol
+Key: Symbol
+Key: Symbol
+Key: Symbol
+Key: Symbol
+Key: Symbol
+Key: Symbol
+Key: Symbol
+Key: Symbol
+Key: Symbol
+Key: Symbol
